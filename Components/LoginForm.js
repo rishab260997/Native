@@ -77,6 +77,7 @@ const LoginForm = ({navigation}) => {
             placeholder="Password"
             placeholderTextColor={'#fff'}
             onChangeText={text => handleFormValues('password', text)}
+            secureTextEntry={true}
             // value={name}
             autoCapitalize="none"
           />

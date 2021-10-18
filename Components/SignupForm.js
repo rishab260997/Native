@@ -87,6 +87,7 @@ const SignupForm = ({navigation}) => {
             selectionColor={'#fff'}
             placeholder="Password"
             placeholderTextColor={'#fff'}
+            secureTextEntry={true}
             onChangeText={text => handleFormValues('password', text)}
             // value={name}
             autoCapitalize="none"
