@@ -45,7 +45,7 @@ const LoginForm = ({navigation}) => {
   };
 
   const handleLogin = () => {
-    if (formValues.name && formValues.email && formValues.password) {
+    if (formValues.email && formValues.password) {
       setError(false);
       firebaseAuthentication();
     } else {
