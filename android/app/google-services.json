@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542112925237",
+    "project_id": "nativetest-e68de",
+    "storage_bucket": "nativetest-e68de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542112925237:android:5ab4ba2d14a5567f16d37c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542112925237-1u6fl8n8fumfre9avq9rbv5fk6n89rjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS90vyeLP0ZndFauvj766WK8fkB0b9-I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542112925237-1u6fl8n8fumfre9avq9rbv5fk6n89rjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
